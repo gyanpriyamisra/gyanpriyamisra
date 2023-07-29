@@ -5,10 +5,10 @@
 - I’m currently learning Machine Learning.
 - I’m looking to collaborate on Data Analysis, Data Visualization
 - I am a post-graduate in Masters in Technology in Electrical and Electronics from Allahabad University.
-- I have a strong foundation in data cleaning, data analysis, and data visualization.
-- I have also gained knowledge on Probability and statistical programming, Hypothesis testing including A/B test and Feature Engineering.
-- I am proficient in MS-Excel, SQL, Python along with libraries like NumPy, Pandas, and Scikit.
-- I am also familiar with data visualization tool such as Tableau and Python libraries such as Matplotlib and Seaborn.
+- I have a strong foundation in **data cleaning**, **data analysis**, and **data visualization**.
+- I have also gained knowledge on **Probability** and **statistical programming**, **Hypothesis testing** including **A/B test** and **Feature Engineering**.
+- I am proficient in **MS-Excel, SQL, Python** along with libraries like **NumPy, Pandas**, and **Scikit**.
+- I am also familiar with data visualization tool such as **Tableau** and Python libraries such as **Matplotlib** and **Seaborn**.
 
 
 <!---
