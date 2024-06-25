@@ -9,6 +9,7 @@
 - I have also gained knowledge on **Probability** and **statistical programming**, **Hypothesis testing** including **A/B test** and **Feature Engineering**.
 - I am proficient in **MS-Excel, SQL, Python** along with libraries like **NumPy, Pandas**, and **Scikit**.
 - I am also familiar with data visualization tool such as **Tableau** and Python libraries such as **Matplotlib** and **Seaborn**.
+I have done projects on Machine learning -supervised and unsupervised algorithms.
 
 
 <!---
